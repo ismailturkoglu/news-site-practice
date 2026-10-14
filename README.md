@@ -38,7 +38,9 @@ A responsive news website built with **HTML** and **CSS**, focusing on modern la
 * Mobile-first thinking and media queries
 * Layout design for real-world UI
 
-# Author
+## Author
 
 **İsmail Türkoğlu**
+
+- GitHub: [@ismailturkoglu](https://github.com/ismailturkoglu)
 
